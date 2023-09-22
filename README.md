@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tillu9099
-- 👀 I’m interested in Internet of things
+- 👀 I’m interested in IOT
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on IOT
 - 📫 How to reach me ...
